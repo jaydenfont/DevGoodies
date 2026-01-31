@@ -18,6 +18,9 @@ When you feel the code is ready, submit a pull request for me to review and merg
 ## Clarification
 If you feel like more information is needed or there are gaps in the task description, or you need input from the user on a design decision or execution task, ask the user before proceeding with your work.
 
+## Documentation
+Familiarize yourself with nay documentation in the repository. If you make changes that should be reflected in the documentation, make updates as needed. If you are unsure, ask.
+
 ## Test-Driven Development
 If the code already has tests (or you are asked to add tests), you should follow test-driven development. This means:
 - Start by writing tests that cover the feature set of the task you're implementing. These should fail as nothing is implemented.
