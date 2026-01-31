@@ -4,7 +4,16 @@
 DevGoodies - A collection of development utilities and tools
 
 ## Architecture
-TBD - Repository structure and architecture to be defined as project evolves
+
+### Directory Structure
+- `.claude/` - Steering files for agent workflow
+  - STEERING.md - Agent workflow guidelines
+  - REPOSITORY.md - Repository overview
+  - BUILDING.md - Build and test instructions
+  - HANDOFF.md - Context preservation between sessions
+  - WORKLOG.md - Session work summaries
+- `skills/` - Claude Code custom skills
+  - claude-md/ - CLAUDE.md file integration skill
 
 ## Key Information
 - Project initialized: 2026-01-31
